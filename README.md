@@ -1,5 +1,7 @@
 -👋 Hi, I’m @ROKI
+
 -🌱 I’m currently learning C#
+
 -🧠 Curently i'm know <a href="https://pythontutor.ru/"><img src="https://img.shields.io/badge/Python-0000FF?style=flat&logo=Python&logoColor=white" alt="Python"/></a>
 
 ![visits](https://count.getloli.com/get/@ROKI-dv?theme=gelbooru)
